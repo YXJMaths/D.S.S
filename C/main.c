@@ -2,11 +2,12 @@
 #include <stdlib.h>
 #include <string.h>
 #include <math.h>
-#include "h/demo.h"
+//#include "h/demo.h"
 //#include "h/for.h"
 //#include "h/while.h"
-//#include "h/if.h"
+#include "h/if.h"
 int main(int argc, char *argv[]){
-    demo();
+    //demo();
+    cif();
     return 0;
 }
