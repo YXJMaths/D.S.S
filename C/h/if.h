@@ -1,5 +1,5 @@
 #include <stdio.h>
-int cfor(){
+int cif(){
     char i;
     printf("U yes Or No\n input y or n. \n");
     scanf("%c",&i");
